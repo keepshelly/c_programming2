@@ -14,5 +14,5 @@ void bubbleSort(int* num, int size)
         }
     }
 }
-//2352352
-
+//37436
+// добавил новый
