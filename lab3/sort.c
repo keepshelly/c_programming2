@@ -1,18 +1,15 @@
-void bubbleSort(int* num, int size)
-{
-    // Для всех элементов
-    for (int i = 0; i < size - 1; i++)
-    {
-        for (int j = (size - 1); j > i; j--) // для всех элементов после i-ого
-        {
-            if (num[j - 1] > num[j]) // если текущий элемент меньше предыдущего
-            {
-                int temp = num[j - 1]; // меняем их местами
-                num[j - 1] = num[j];
-                num[j] = temp;
-            }
-        }
-    }
+#include <stdio.h>
+
+void sort(int arr[], int n) {
+    // Ваша функция сортировки
 }
-//37436
-// добавил новый
+
+int main() {
+    int a[] = {4, 2};
+    int n = sizeof(a) / sizeof(a[0]);
+    sort(a, n);
+    for (int i = 0; i < n; i++) {
+        printf("%d ", a[i]);
+    }
+    return 0;
+}
