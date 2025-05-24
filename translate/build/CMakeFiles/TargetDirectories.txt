@@ -1,0 +1,13 @@
+/mnt/c/Users/keepshelly/Desktop/studying2/programming/S2PRGM/translate/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/keepshelly/Desktop/studying2/programming/S2PRGM/translate/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/keepshelly/Desktop/studying2/programming/S2PRGM/translate/build/CMakeFiles/list_install_components.dir
+/mnt/c/Users/keepshelly/Desktop/studying2/programming/S2PRGM/translate/build/CMakeFiles/install.dir
+/mnt/c/Users/keepshelly/Desktop/studying2/programming/S2PRGM/translate/build/CMakeFiles/install/local.dir
+/mnt/c/Users/keepshelly/Desktop/studying2/programming/S2PRGM/translate/build/CMakeFiles/install/strip.dir
+/mnt/c/Users/keepshelly/Desktop/studying2/programming/S2PRGM/translate/build/src/CMakeFiles/translate.dir
+/mnt/c/Users/keepshelly/Desktop/studying2/programming/S2PRGM/translate/build/src/CMakeFiles/edit_cache.dir
+/mnt/c/Users/keepshelly/Desktop/studying2/programming/S2PRGM/translate/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/keepshelly/Desktop/studying2/programming/S2PRGM/translate/build/src/CMakeFiles/list_install_components.dir
+/mnt/c/Users/keepshelly/Desktop/studying2/programming/S2PRGM/translate/build/src/CMakeFiles/install.dir
+/mnt/c/Users/keepshelly/Desktop/studying2/programming/S2PRGM/translate/build/src/CMakeFiles/install/local.dir
+/mnt/c/Users/keepshelly/Desktop/studying2/programming/S2PRGM/translate/build/src/CMakeFiles/install/strip.dir

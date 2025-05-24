@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -Wpedantic CMakeFiles/translate.dir/main.c.o CMakeFiles/translate.dir/dictionary.c.o CMakeFiles/translate.dir/translator.c.o -o translate 
