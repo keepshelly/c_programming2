@@ -1,0 +1,28 @@
+#include <stdio.h>
+#include <pthread.h>
+
+pthread_mutex_t mutex = PTHREAD_MUTEX_INITIALIZER;
+
+void* thread_func(void* arg) {
+    for (int i = 0; i < 5; i++) {
+        pthread_mutex_lock(&mutex);  // Захватываем мьютекс
+        printf("Child thread: line %d\n", i);
+        pthread_mutex_unlock(&mutex);  // Освобождаем
+    }
+    return NULL;
+}
+
+int main() {
+    pthread_t thread;
+    pthread_create(&thread, NULL, thread_func, NULL);
+
+    for (int i = 0; i < 5; i++) {
+        pthread_mutex_lock(&mutex);  // Захватываем мьютекс
+        printf("Main thread: line %d\n", i);
+        pthread_mutex_unlock(&mutex);  // Освобождаем
+    }
+
+    pthread_join(thread, NULL);
+    pthread_mutex_destroy(&mutex);  // Уничтожаем мьютекс
+    return 0;
+}

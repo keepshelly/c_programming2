@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/student_program.dir/src/main.c.o -o bin/student_program  -Wl,-rpath,/mnt/c/Users/keepshelly/Desktop/studying2/programming/S2PRGM/lab6/build/lib lib/libstudent.so 

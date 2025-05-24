@@ -1,0 +1,8 @@
+/mnt/c/Users/keepshelly/Desktop/studying2/programming/S2PRGM/lab6/build/CMakeFiles/student.dir
+/mnt/c/Users/keepshelly/Desktop/studying2/programming/S2PRGM/lab6/build/CMakeFiles/student_program.dir
+/mnt/c/Users/keepshelly/Desktop/studying2/programming/S2PRGM/lab6/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/keepshelly/Desktop/studying2/programming/S2PRGM/lab6/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/keepshelly/Desktop/studying2/programming/S2PRGM/lab6/build/CMakeFiles/list_install_components.dir
+/mnt/c/Users/keepshelly/Desktop/studying2/programming/S2PRGM/lab6/build/CMakeFiles/install.dir
+/mnt/c/Users/keepshelly/Desktop/studying2/programming/S2PRGM/lab6/build/CMakeFiles/install/local.dir
+/mnt/c/Users/keepshelly/Desktop/studying2/programming/S2PRGM/lab6/build/CMakeFiles/install/strip.dir

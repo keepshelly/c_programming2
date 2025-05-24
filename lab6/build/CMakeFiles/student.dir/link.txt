@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libstudent.so -o lib/libstudent.so CMakeFiles/student.dir/src/student_utils.c.o CMakeFiles/student.dir/src/sorts.c.o 
